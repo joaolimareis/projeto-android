@@ -85,6 +85,7 @@ header > h1 {
     margin-bottom: 20px;
     text-shadow: 4px 6px black;
     font-weight: normal;
+    font-size: 40px;
 }
 header > p{
     color: white;
@@ -95,7 +96,7 @@ header > p{
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px black;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     
 }
 
